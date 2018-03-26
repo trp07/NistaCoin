@@ -1,0 +1,2 @@
+# NistaCoin
+Collaborative Cryptocurrency Experiment
